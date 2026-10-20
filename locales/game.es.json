@@ -1,0 +1,22 @@
+{
+  "title": "Aprende a leer el fuera de juego.",
+  "play": "Practicar · 4 contra 4",
+  "learn": "Aprender · Simulador",
+  "blue": "Azul",
+  "red": "Rojo",
+  "pause": "Pausar",
+  "resume": "Continuar",
+  "restart": "Nuevo partido",
+  "pass": "Pase",
+  "shoot": "Tiro",
+  "tackle": "Quitar",
+  "switch": "Cambiar",
+  "help": "Joystick o WASD/flechas para moverte. Arriba: Cambiar; izquierda: Pase al atacar o Quitar al defender; derecha: Tiro. Teclado: J pase, L quitar, K tiro, Tab cambiar. Aro blanco: tu jugador; amarillo: receptor. La orientación se conserva al soltar el control.",
+  "notice": "Primera entrega · La línea amarilla es orientativa: todavía no se sanciona el fuera de juego. Bandas con rebote; sin faltas ni saques. Gana al llegar a 7 goles o al terminar los 2 minutos. Empate: gol de oro.",
+  "playing": "Busca espacios y construye la jugada.",
+  "golden": "Gol de oro · ¡El próximo gol gana!",
+  "finished": "Ganador: ",
+  "paused": "Partido en pausa",
+  "offsideLine": "Fuera de juego",
+  "reference": "referencia sin sanción"
+}

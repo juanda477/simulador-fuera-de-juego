@@ -1,0 +1,22 @@
+{
+  "title": "Learn to read offside.",
+  "play": "Practice · 4 against 4",
+  "learn": "Learn · Simulator",
+  "blue": "Blue",
+  "red": "Red",
+  "pause": "Pause",
+  "resume": "Resume",
+  "restart": "New match",
+  "pass": "Pass",
+  "shoot": "Shoot",
+  "tackle": "Tackle",
+  "switch": "Switch",
+  "help": "Move with the joystick or WASD/arrows. Top: Switch; left: Pass in attack or Tackle in defence; right: Shoot. Keyboard: J pass, L tackle, K shoot, Tab switch. White ring: your player; yellow: receiver. Facing is retained when you release movement.",
+  "notice": "First release · The yellow line is a reference: offside is not penalized yet. Rebounding boundaries; no fouls or restarts. Reach 7 goals or lead after 2 minutes to win. Draw: golden goal.",
+  "playing": "Find space and build the play.",
+  "golden": "Golden goal · Next goal wins!",
+  "finished": "Winner: ",
+  "paused": "Match paused",
+  "offsideLine": "Offside",
+  "reference": "reference, no offence called"
+}
